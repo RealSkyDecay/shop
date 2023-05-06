@@ -20,7 +20,7 @@ const UsersData = [
   function Signup() {
     let passOne = document.getElementById("passOne").value;
     let passTwo = document.getElementById("passTwo").value;
-    if (passOne.length >= 8 {
+    if (passOne.length >= 8 ){
       if (passOne === passTwo) {
         if (passOne != passOne.toLowerCase()) {
           console.log("pass ok");

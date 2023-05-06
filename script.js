@@ -48,7 +48,7 @@ const products = [
     for (let i = 0; i < products.length; i++) {
       const product = products[i];
   
-      console.log(${product.name} - ${product.price});
+     
   
       const div = document.createElement("div");
       div.classList.add("product");
@@ -148,7 +148,7 @@ const products = [
   function Signup() {
     let passOne = document.getElementById("passOne").value;
     let passTwo = document.getElementById("passTwo").value;
-    if (passOne.length >= 8 {
+    if (passOne.length >= 8) {
       if (passOne === passTwo) {
         if (passOne != passOne.toLowerCase()) {
           console.log("pass ok");

@@ -48,7 +48,7 @@ const products = [
     for (let i = 0; i < products.length; i++) {
       const product = products[i];
   
-      console.log(${product.name} - ${product.price});
+     
   
       const div = document.createElement("div");
       div.classList.add("product");

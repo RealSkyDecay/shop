@@ -128,9 +128,7 @@
     height: 100%;
     width: 150px;
 }
-.f{
-    
-}
+
 .f-h, img{
     height: 100%;
     width: 100%;
@@ -143,7 +141,7 @@
     align-items: center;
     background-color: gold;
 }
-.f-h2{
+.f h2{
     height:50%;
     width: 100%;
     display: flex;
