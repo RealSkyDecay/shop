@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.consirve{
+    width: 100%;
+    height: 3100vh;
+    background-color: white;
+}
+.a{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+}
+.one{
+    width: 20%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.two{
+    width: 80%;
+    height: 100vh;
+    background-color: white;
+}
+.three{
+    width: 100%;
+    height: 40vh;
+    background-color: white ;
+    display: flex;
+}
+.nerd{
+    width: 50%;
+    height: 40vh;
+    background-color: white;
+}
+.starbush{
+    width: 50%;
+    height: 40vh;
+    background-color:white;
+}
+.four{
+    width: 100%;
+    height: 30vh;
+    background-color: pink;
+    display: flex;
+}
+.five{
+    width: 100%;
+    height: 30vh;
+    background-color: white;
+}
+.d{
+    width: 20%;
+    height: 30vh;
+    background-color: white;
+}
+.e{
+    width: 20%;
+    height: 30vh;
+    background-color: white;
+}
+.f{
+    width: 20%;
+    height: 30vh;
+    background-color: white;
+}
+.g{
+    width: 20%;
+    height: 30vh;
+    background-color: white;
+}
+.h{
+    width: 20%;
+    height: 30vh;
+    background-color: white;
+.six{
+    width: 100%;
+    height: 100%;
+    background-color:white;
+}
+.sixhalf{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.sixhalf2{
+    height:50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.seven{
+        width: 100%;
+        height: 10vh;
+        background-color:white;
+}
+.eight{
+    width: 100%;
+    height: 20vh;
+    background-color:  white;
+ }
+.nine{
+    width: 100%;
+    height: 10vh;
+    background-color: white;
+ }
+.b{
+    width: 100%;
+    height: 20vh;
+    background-color: white;
+   }
+.c{
+    width: 100%;
+    height: 10vh;
+    background-color: white;
+}
+.skittles_green{
+    margin-top: 20px;
+    height: 100%;
+    width: 150px;
+}
+.f{
+    
+}
+.f-h, img{
+    height: 100%;
+    width: 100%;
+}
+.f-h{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gold;
+}
+.f-h2{
+    height:50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gold;
+}
